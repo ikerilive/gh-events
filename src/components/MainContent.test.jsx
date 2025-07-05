@@ -5,6 +5,7 @@ import userEvent from '@testing-library/user-event';
 import MainContent from './MainContent';
 
 // Testing file
+// Skip
 
 describe('MainContent', () => {
   it('should render a button', () => {
